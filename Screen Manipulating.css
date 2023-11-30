@@ -1,0 +1,72 @@
+@media screen and (min-width: 480) {
+    
+    .flex{
+        border: solid black;
+
+        display: flex;
+
+
+    }
+
+
+    .one{
+        background-color: blue;
+    }
+
+    .two{
+        background-color: red;
+    }
+
+    .three{
+        background-color: green;
+    }
+
+    .four{
+        background-color: yellow;
+    }
+}
+    
+
+
+@media screen and (min-width: 768){
+    
+    .one{
+        background-color: blue;
+    }
+
+    .two{
+        background-color: red;
+    }
+
+    .three{
+        background-color: green;
+    }
+
+    .four{
+        background-color: yellow;
+    }
+}
+
+
+    
+
+
+@media screen and (min-width: 1024){
+    
+    .one{
+        background-color: blue;
+    }
+
+    .two{
+        background-color: red;
+    }
+
+    .three{
+        background-color: green;
+    }
+
+    .four{
+        background-color: yellow;
+    }
+    
+}
